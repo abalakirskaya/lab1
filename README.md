@@ -13,7 +13,7 @@ In application are used:
   - __films_map.py__ - the main application of project, which you should run
   - __Map.html__ - html file with the map
   - __world.json__ - file with information about countries
-  -__locations.list__ - file with the location of films
+  - __locations.list__ - file with the location of films
 
 #### License of using
   - Download the 'lab1' project (_all files!_)
@@ -30,13 +30,13 @@ In application are used:
   - \<head> - Defines information about the document
 #### Summary
   The map is generated with 3 layers of information with markers and 3 layers of different background tiles. The first layer shows the countries in which in this year movies were made. The second layer shows the most popular cities in which in this year movies were made. The third layer shows the population of all counties.
-  _Interesting information_
-  Some countries have never made a movies
-  The most popular city in making films in New York:)
-  The most popular countries in making films are:
-    - India
-    - Nigeria
-    - USA
-    - China
-    - Japan
-  USA is a leader in cinematography with approximately 351984 filmed of all time.
+#### Interesting information
+  - Some countries have never made a movies
+  - The most popular city in making films in New York:)
+  - The most popular countries in making films are:
+    1. India
+    2. Nigeria
+    3. USA
+    4. China
+    5. Japan
+  - USA is a leader in cinematography with approximately 351984 filmed of all time.
