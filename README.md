@@ -10,10 +10,10 @@ In application are used:
   - operator
   - standart Python libraries
 _The structure of the project_
-  1. __films_map.py__ - the main application of project, which you should run
-  2. __Map.html__ - html file with the map
-  3.__world.json__ - file with information about countries
-  4.__locations.list__ - file with the location of films
+  - __films_map.py__ - the main application of project, which you should run
+  - __Map.html__ - html file with the map
+  - __world.json__ - file with information about countries
+  -__locations.list__ - file with the location of films
   
   _License of using_
     1. Download the 'lab1' project (_all files!_)
