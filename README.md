@@ -13,7 +13,7 @@ In application are used:
   - __films_map.py__ - the main application of project, which you should run
   - __Map.html__ - html file with the map
   - __world.json__ - file with information about countries
-  - __locations.list__ - file with the location of films
+  - __locations.list__ - file with the location of films (you should unzip the __locations.zip__ file)
 
 #### License of using
   - Download the 'lab1' project (_all files!_)
